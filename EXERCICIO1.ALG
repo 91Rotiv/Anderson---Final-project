@@ -1,4 +1,4 @@
-Algoritmo "Exercicio 1 "
+Algoritmo "Exercicio 1"
 
 Var
    altura, largura, area, perimetro: real
