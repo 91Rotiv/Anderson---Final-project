@@ -1,4 +1,4 @@
-Algoritmo "Exercicio 2"
+Algoritmo "Exercicio2"
 
 Var
 lado, area, perimetro: real
